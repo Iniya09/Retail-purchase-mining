@@ -82,6 +82,6 @@ Retail_Purchase_Analysis/
 
 ## **Author**
 
-- [Your Name]
-- [Your Institution]
+- Iniya.V
+- PSV college of engineering and technology 
 - Submitted: May 2025
